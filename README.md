@@ -33,7 +33,7 @@
 </svg>
 
 ## Overview
-This project implements a modern airline analytics lakehouse using the TPC-A synthetic dataset. The goal is to transform raw flight and booking data into trusted, governed analytics-ready datasets that answer core business questions around revenue, bookings, routes, and passenger behavior.
+This project implements a modern airline analytics lakehouse using the TPC-A synthetic dataset. The goal is to transform raw flight and booking data into trusted, governed analytics-ready datasets.
 
 ## What this project does
 - Ingests raw airline data into a Bronze layer
